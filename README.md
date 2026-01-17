@@ -3,7 +3,7 @@
 *A place for my code experiments and projects, my own developer playground.*
 
 > 📌 **Read this in:**  
-> English (default) | [Português Brasil](README.pt-BR.md)
+> English (default) | [Português Brasil](profiles/README.pt-BR.md)
 
 ---
 
@@ -36,3 +36,4 @@ This space exists for:
 - Personal evolution tracking
 - Revisiting foundations and advancing further
 - Exploring technologies, patterns and architectures
+
